@@ -7,10 +7,10 @@ Blackjack game in Python using Zelle's graphics.py. Based on the exercise in cha
 ### Winning conditions ###
 >Then the user can always choose "pass" or "draw" (make two buttons for this). If you fit you can earn dollars:
 ><ul>
-><li>21: 10 dollars<li>
-><li>20: 5 dollars<li>
-><li>19: 3 dollars<li>
-><li>18: 2 dollars<li>
+><li>21: 10 dollars</li>
+><li>20: 5 dollars</li>
+><li>19: 3 dollars</li>
+><li>18: 2 dollars</li>
 ><ul>
 >If the total Blackjack value exceeds 21, you lose 3 dollars and start a new game.
 >On the screen, always see what the total score in dollars so far is.
