@@ -17,7 +17,6 @@ This repository contains my Blackjack game. It's made in Python using Zelle's gr
 >On the screen, always see what the total score in dollars so far is.
 >Also, provide a "quit" button that lets you stop.
 
-
 ![Alt text](/blackjack_gui.jpg?raw=true "Example of the game")
 
 ## Requirements ##
