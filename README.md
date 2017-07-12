@@ -29,6 +29,6 @@ All the classes for the objects needed are in the repository, including the depe
 Clone this repository
 ><code> git clone https://github.com/victorr0/BlackJack-in-Python-OOP-with-GUI.git </code>
 
-Start the game with the command:
+Start the game with the command, gamble responsibly ;-) :
 ><code> python3 BlackJack.py </code>
 
